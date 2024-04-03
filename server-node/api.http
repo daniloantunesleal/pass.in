@@ -24,3 +24,11 @@ GET http://localhost:3333/events/5d9b0260-be4b-459d-955a-df21bbf4a6c4
 ###
 
 GET http://localhost:3333/attendees/2/badge
+
+###
+
+GET http://localhost:3333/attendees/2/check-in
+
+###
+
+GET http://localhost:3333/events/5d9b0260-be4b-459d-955a-df21bbf4a6c4/attendees?query=danilo
