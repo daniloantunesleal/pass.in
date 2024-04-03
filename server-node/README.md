@@ -29,6 +29,20 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 - [ ] O check-in no evento será realizado através de um QRCode;
 
+# Antoações
+Métodos HTTP: GET, POST, DELETE, PATCH, HEAD, OPTIONS, ...
+Corpo da requisição (Request Body)
+Paramentros de busca (Search Params / Query Params) `http://localhost:3333/users?name=Danilo`
+Parametros de rota (Route Params) -> Identificação de recursos
+Cabeçalho (Headers) -> Contexto
+
+Driver nativo / Query Builderss / ORMs
+
+20x => Sucesso
+30x => Redirecionamento
+40x => Erro do cliente (Erro em alguma informação enviada por quem esta fazendo a chamada para api)
+50x => Erro do servidor (Erro que está acontecendo independente do que está sendo enviado para oservidor)
+
 ## Documentação da API (Swagger)
 
 Para documentação da API, acesse o link: https://nlw-unite-nodejs.onrender.com/docs

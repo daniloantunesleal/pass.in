@@ -2,7 +2,25 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-    "title": "Unite Summit Danillooo",
-    "details": "Um evento para quem é apaixonado por programaçao",
-    "maximumAttendees": 100
+    "title": "Novo evento",
+    "details": null,
+    "maximumAttendees": 1
 }
+
+###
+
+POST http://localhost:3333/events/5d9b0260-be4b-459d-955a-df21bbf4a6c4/attendees
+Content-Type: application/json
+
+{
+    "name": "Danilo Leal",
+    "email": "danilo2@noulsolutions.com"
+}
+
+###
+
+GET http://localhost:3333/events/5d9b0260-be4b-459d-955a-df21bbf4a6c4
+
+###
+
+GET http://localhost:3333/attendees/2/badge
