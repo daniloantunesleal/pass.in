@@ -8,4 +8,4 @@ Os participantes inscritos podem emitir uma credencial para check-in no dia do e
 
 O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
-![NLW Unite](https://cdn.discordapp.com/attachments/746478011070546121/1225163133182677033/Wallpaper-_2560x1600.png?ex=66202115&is=660dac15&hm=dfc33174595c8607ae497140b8d1a8ae154bd7ff9e29be6e6dd3ba1fc3a4a5ea&)
+![NLW Unite](https://media.discordapp.net/attachments/746478011070546121/1225162147126841397/Wallpaper_-_2560x1080.png?ex=6620202a&is=660dab2a&hm=e137a288cf7ba2308bf26f6b81acd882cdf909125b85e9453951de5eaf7e7482&=&format=webp&quality=lossless&width=412&height=174)
