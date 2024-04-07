@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "dayjs": "^1.11.10",
     "lucide-react": "^0.365.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.2"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
